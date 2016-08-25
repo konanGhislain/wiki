@@ -1,0 +1,6 @@
+- module de recherche
+- import / export
+- administration
+- reporting
+- gestion de profile
+- carte google
